@@ -8,7 +8,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-@migue_ecu-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@migue_ecu?_t=8nExVmtxbde&_r=1)
 [![Facebook](https://img.shields.io/badge/Facebook-@educuenca-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/educuenca95)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EduardoCuenca-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/eduardo-cuenca-b854b09b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EduardoCuenca-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/eduardo-cuenca-b854b09b)
 [![Correo](https://img.shields.io/badge/Correo.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ecuenca4@gmail.com)
 
 ## Sobre mi
